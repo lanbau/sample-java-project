@@ -1,6 +1,6 @@
 ```3
 test2231231232ss3ee
-VMware has ended active development of this project, this repository will no longer be updated
+VMware has ended active dssevelopment of this project, this repository will no longer be updated
 ```
 
 # sample-app-java
